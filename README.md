@@ -9,6 +9,6 @@ Key Findings:
 
 Visual Highlights:
 
--Geographic Disparities: Subregions like Central America and Western Africa show mean homicide counts despite lower counts in absolute terms.
+- Geographic Disparities: Subregions like Central America and Western Africa show mean homicide counts despite lower counts in absolute terms.
 
-Why It Matters: Understanding these patterns can help policymakers prioritize resources for violence prevention and public safety initiatives.
+- Why It Matters: Understanding these patterns can help policymakers prioritize resources for violence prevention and public safety initiatives.
